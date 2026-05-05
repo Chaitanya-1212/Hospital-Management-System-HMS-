@@ -3,8 +3,8 @@
 A web-based **Hospital Management System** built using **Django** that
 helps manage and track:
 
--   👨‍⚕️ Doctors\
--   🧑‍🤝‍🧑 Patients\
+-   👨‍⚕️ Doctors
+-   🧑‍🤝‍🧑 Patients
 -   📅 Appointments
 
 This system streamlines hospital operations by organizing records and
@@ -14,25 +14,25 @@ maintaining appointment workflows efficiently.
 
 ## 🚀 Features
 
--   Manage patient records\
--   Manage doctor information\
--   Schedule and track appointments\
--   Maintain appointment history\
+-   Manage patient records
+-   Manage doctor information
+-   Schedule and track appointments
+-   Maintain appointment history
 -   Email notifications support
 
 ------------------------------------------------------------------------
 
 ## 🛠️ Tech Stack
 
--   Backend: Python, Django\
+-   Backend: Python, Django
 -   Database: PostgreSQL
 
 ------------------------------------------------------------------------
 
 ## ⚙️ Requirements
 
--   Python 3.x\
--   PostgreSQL\
+-   Python 3.x
+-   PostgreSQL
 -   pip
 
 ------------------------------------------------------------------------
@@ -63,8 +63,8 @@ Activate: - Windows: `venv\Scripts\activate` - Mac/Linux:
 
 ### 4. PostgreSQL Setup
 
-Create a database and note: - Database Name\
-- Username\
+Create a database and note: - Database Name
+- Username
 - Password
 
 ------------------------------------------------------------------------
@@ -118,22 +118,22 @@ Open in browser:
 
 ## 📱 Application Info
 
--   App name: `hospital`\
+-   App name: `hospital`
 -   Ensure it is added in `INSTALLED_APPS` in `settings.py`
 
 ------------------------------------------------------------------------
 
 ## ⚠️ Notes
 
--   Do not delete the `migrations` folder\
--   `__pycache__` can be ignored\
+-   Do not delete the `migrations` folder
+-   `__pycache__` can be ignored
 -   Use `.env` for better security in production
 
 ------------------------------------------------------------------------
 
 ## ⭐ Future Improvements
 
--   Authentication system\
--   Role-based access\
--   UI improvements\
+-   Authentication system
+-   Role-based access
+-   UI improvements
 -   Deployment support
